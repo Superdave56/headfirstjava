@@ -1,3 +1,5 @@
+// static variables are shared by the class, not an instance.
+
 class Statick {
 	static int x = 0;
 	
